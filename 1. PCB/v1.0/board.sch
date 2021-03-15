@@ -189,72 +189,34 @@
 <library name=",giltesa">
 <packages>
 <package name="GBP_POWER_JACK">
-<wire x1="4.699" y1="0" x2="-7.239" y2="0" width="0.4064" layer="51"/>
-<wire x1="-7.239" y1="0" x2="-7.239" y2="12.319" width="0.4064" layer="51"/>
-<wire x1="-7.239" y1="12.319" x2="-5.461" y2="12.319" width="0.4064" layer="51"/>
-<wire x1="-5.461" y1="12.319" x2="-4.191" y2="11.049" width="0.4064" layer="51"/>
-<wire x1="-4.191" y1="11.049" x2="4.699" y2="11.049" width="0.4064" layer="51"/>
-<wire x1="4.699" y1="11.049" x2="4.699" y2="0" width="0.4064" layer="51"/>
-<pad name="NC4" x="-6.858" y="3.683" drill="1.8" diameter="3" shape="square" rot="R180"/>
-<pad name="VCC" x="-6.35" y="11.303" drill="1.8" diameter="3" shape="square" rot="R180"/>
-<smd name="NC2" x="0" y="8.636" dx="2.5" dy="2.5" layer="16" roundness="100" rot="R180"/>
-<smd name="NC3" x="-3.048" y="7.366" dx="2.5" dy="2.5" layer="16" roundness="100" rot="R180"/>
-<smd name="NC1" x="2.921" y="6.35" dx="2.8" dy="2.8" layer="16" roundness="100" rot="R180"/>
-<smd name="GND2" x="-2.54" y="1.905" dx="2.2" dy="2.2" layer="16" roundness="100" rot="R180"/>
-<smd name="GND1" x="2.54" y="1.905" dx="2.2" dy="2.2" layer="16" roundness="100" rot="R180"/>
-</package>
-<package name="USB-C_6P">
-<smd name="GND2" x="2.75" y="-0.08" dx="0.8" dy="1.2" layer="1"/>
-<smd name="VBUS2" x="1.52" y="-0.08" dx="0.8" dy="1.2" layer="1"/>
-<smd name="B5" x="0.5" y="-0.08" dx="0.76" dy="1.2" layer="1"/>
-<smd name="GND1" x="-2.75" y="-0.08" dx="0.8" dy="1.2" layer="1" rot="R180"/>
-<smd name="VBUS1" x="-1.52" y="-0.08" dx="0.8" dy="1.2" layer="1" rot="R180"/>
-<smd name="A5" x="-0.5" y="-0.08" dx="0.76" dy="1.2" layer="1" rot="R180"/>
-<wire x1="4.32" y1="-3.15" x2="4.32" y2="-4.75" width="0.01" layer="51"/>
-<wire x1="4.02" y1="-3.95" x2="4.62" y2="-3.95" width="0.01" layer="52"/>
-<wire x1="4.32" y1="-3.35" x2="4.32" y2="-4.55" width="0.01" layer="52"/>
-<wire x1="4.32" y1="0.42" x2="4.32" y2="-1.2" width="0.01" layer="51"/>
-<wire x1="-4.32" y1="-6.55" x2="4.32" y2="-6.55" width="0.1524" layer="51"/>
-<wire x1="-4.32" y1="-6.55" x2="-4.32" y2="0.42" width="0.1524" layer="51"/>
-<wire x1="-4.32" y1="0.42" x2="4.32" y2="0.42" width="0.1524" layer="51"/>
-<wire x1="4.32" y1="0.42" x2="4.32" y2="-6.55" width="0.1524" layer="51"/>
-<wire x1="-4.32" y1="-6.55" x2="4.32" y2="-6.55" width="0.1524" layer="51" curve="-21.282614"/>
-<wire x1="-4.32" y1="-1.34" x2="-4.32" y2="-2.855" width="0.2032" layer="21"/>
-<wire x1="4.32" y1="-1.34" x2="4.32" y2="-2.855" width="0.2032" layer="21"/>
-<text x="0" y="-2.28" size="0.762" layer="25" align="center">&gt;Name</text>
-<text x="0" y="-3.55" size="0.762" layer="27" align="center">&gt;Value</text>
-<wire x1="4.02" y1="-4.255" x2="4.02" y2="-3.635" width="0.01" layer="20"/>
-<wire x1="4.62" y1="-4.255" x2="4.62" y2="-3.635" width="0.01" layer="20"/>
-<wire x1="4.02" y1="-3.635" x2="4.62" y2="-3.635" width="0.01" layer="20" curve="-180"/>
-<wire x1="4.62" y1="-4.255" x2="4.02" y2="-4.255" width="0.01" layer="20" curve="-180"/>
-<wire x1="4.02" y1="-0.15" x2="4.62" y2="-0.15" width="0.01" layer="52"/>
-<wire x1="4.32" y1="0.45" x2="4.32" y2="-0.75" width="0.01" layer="52"/>
-<wire x1="4.02" y1="-0.455" x2="4.02" y2="0.165" width="0.01" layer="20"/>
-<wire x1="4.62" y1="-0.455" x2="4.62" y2="0.165" width="0.01" layer="20"/>
-<wire x1="4.02" y1="0.165" x2="4.62" y2="0.165" width="0.01" layer="20" curve="-180"/>
-<wire x1="4.62" y1="-0.455" x2="4.02" y2="-0.455" width="0.01" layer="20" curve="-180"/>
-<wire x1="-4.32" y1="-3.15" x2="-4.32" y2="-4.75" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="-3.95" x2="-4.02" y2="-3.95" width="0.01" layer="52"/>
-<wire x1="-4.32" y1="-3.35" x2="-4.32" y2="-4.55" width="0.01" layer="52"/>
-<wire x1="-4.32" y1="0.42" x2="-4.32" y2="-1.2" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="-4.255" x2="-4.62" y2="-3.635" width="0.01" layer="20"/>
-<wire x1="-4.02" y1="-4.255" x2="-4.02" y2="-3.635" width="0.01" layer="20"/>
-<wire x1="-4.62" y1="-3.635" x2="-4.02" y2="-3.635" width="0.01" layer="20" curve="-180"/>
-<wire x1="-4.02" y1="-4.255" x2="-4.62" y2="-4.255" width="0.01" layer="20" curve="-180"/>
-<wire x1="-4.62" y1="-0.15" x2="-4.02" y2="-0.15" width="0.01" layer="52"/>
-<wire x1="-4.32" y1="0.45" x2="-4.32" y2="-0.75" width="0.01" layer="52"/>
-<wire x1="-4.62" y1="-0.455" x2="-4.62" y2="0.165" width="0.01" layer="20"/>
-<wire x1="-4.02" y1="-0.455" x2="-4.02" y2="0.165" width="0.01" layer="20"/>
-<wire x1="-4.62" y1="0.165" x2="-4.02" y2="0.165" width="0.01" layer="20" curve="-180"/>
-<wire x1="-4.02" y1="-0.455" x2="-4.62" y2="-0.455" width="0.01" layer="20" curve="-180"/>
-<smd name="SHLD1" x="-4.32" y="-0.15" dx="1.1" dy="1.7" layer="1" roundness="100" rot="R180"/>
-<smd name="SHLD5" x="-4.32" y="-3.95" dx="1.1" dy="1.7" layer="1" roundness="100" rot="R180"/>
-<smd name="SHLD8" x="4.32" y="-3.95" dx="1.1" dy="1.7" layer="1" roundness="100" rot="R180"/>
-<smd name="SHLD2" x="4.32" y="-0.15" dx="1.1" dy="1.7" layer="1" roundness="100" rot="R180"/>
-<smd name="SHLD3" x="-4.32" y="-0.15" dx="1.1" dy="1.7" layer="16" roundness="100"/>
-<smd name="SHLD6" x="-4.32" y="-3.95" dx="1.1" dy="1.7" layer="16" roundness="100"/>
-<smd name="SHLD7" x="4.32" y="-3.95" dx="1.1" dy="1.7" layer="16" roundness="100"/>
-<smd name="SHLD4" x="4.32" y="-0.15" dx="1.1" dy="1.7" layer="16" roundness="100"/>
+<smd name="VCC" x="0" y="8.636" dx="2.8" dy="2.8" layer="16" roundness="100" rot="R180"/>
+<smd name="NC1" x="-3.048" y="7.366" dx="2.2" dy="2.2" layer="16" roundness="100" rot="R180"/>
+<smd name="NC2" x="2.921" y="6.35" dx="2.2" dy="2.2" layer="16" roundness="100" rot="R180"/>
+<smd name="GND1" x="-2.54" y="1.905" dx="2.2" dy="2.2" layer="16" roundness="100" rot="R180"/>
+<smd name="GND2" x="2.54" y="1.905" dx="2.2" dy="2.2" layer="16" roundness="100" rot="R180"/>
+<wire x1="-2.5" y1="-2" x2="2.5" y2="-2" width="0.127" layer="52"/>
+<wire x1="2.5" y1="-2" x2="2.5" y2="0" width="0.127" layer="52"/>
+<wire x1="2.5" y1="0" x2="2.5" y2="0.373" width="0.127" layer="22"/>
+<wire x1="-2.5" y1="-2" x2="-2.5" y2="0" width="0.127" layer="52"/>
+<wire x1="-2.5" y1="0" x2="-2.5" y2="0.373" width="0.127" layer="22"/>
+<wire x1="-2.5" y1="0" x2="2.5" y2="0" width="0.127" layer="22"/>
+<wire x1="2.5" y1="3.4238" x2="2.5" y2="4.881" width="0.127" layer="22"/>
+<wire x1="-2.5" y1="3.427" x2="-2.5" y2="5.9746" width="0.127" layer="22"/>
+<wire x1="2.5" y1="7.7968" x2="2.5" y2="9" width="0.127" layer="22"/>
+<wire x1="2.5" y1="9" x2="1.7794" y2="9" width="0.127" layer="22"/>
+<wire x1="-1.7794" y1="9" x2="-2.5" y2="9" width="0.127" layer="22"/>
+<wire x1="-2.5" y1="9" x2="-2.5" y2="8.754" width="0.127" layer="22"/>
+<text x="-1.7526" y="10.0838" size="1.27" layer="52" rot="MR0" align="center">1</text>
+<wire x1="0" y1="6.3246" x2="0" y2="2.5146" width="0.4064" layer="22"/>
+<wire x1="0" y1="2.5146" x2="-1.27" y2="3.7846" width="0.4064" layer="22"/>
+<wire x1="0" y1="2.5146" x2="1.27" y2="3.7846" width="0.4064" layer="22"/>
+<text x="-3.2996" y="5.0598" size="1.27" layer="52" rot="MR0" align="center">3</text>
+<text x="3.2234" y="4.1148" size="1.27" layer="52" rot="MR0" align="center">2</text>
+<circle x="2.921" y="6.35" radius="1.3208" width="0.127" layer="52"/>
+<circle x="2.54" y="1.905" radius="1.3208" width="0.127" layer="22"/>
+<circle x="-3.048" y="7.366" radius="1.3208" width="0.127" layer="52"/>
+<circle x="-2.54" y="1.905" radius="1.3208" width="0.127" layer="22"/>
+<circle x="0" y="8.636" radius="1.6256" width="0.127" layer="22"/>
 </package>
 </packages>
 <symbols>
@@ -268,23 +230,9 @@
 <pin name="GND" x="7.62" y="-2.54" length="short" direction="out" rot="R180"/>
 <pin name="VCC" x="7.62" y="2.54" length="short" direction="pwr" rot="R180"/>
 </symbol>
-<symbol name="USB-C_POWER">
-<wire x1="-2.54" y1="-7.62" x2="10.16" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="10.16" y1="-7.62" x2="10.16" y2="7.62" width="0.254" layer="94"/>
-<wire x1="10.16" y1="7.62" x2="-2.54" y2="7.62" width="0.254" layer="94"/>
-<text x="0" y="0" size="2.54" layer="94" rot="R270" align="center">USB-C</text>
-<text x="-2.54" y="-9.906" size="1.778" layer="96" font="vector" rot="MR180" align="top-left">&gt;VALUE</text>
-<wire x1="-2.54" y1="-7.62" x2="-2.54" y2="7.62" width="0.254" layer="94"/>
-<text x="-2.54" y="7.874" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<pin name="GND" x="12.7" y="-5.08" visible="pin" length="short" rot="R180"/>
-<pin name="VBUS" x="12.7" y="5.08" visible="pin" length="short" rot="R180"/>
-<pin name="CC1" x="12.7" y="2.54" visible="pin" length="short" rot="R180"/>
-<pin name="CC2" x="12.7" y="0" visible="pin" length="short" rot="R180"/>
-<pin name="SHLD" x="12.7" y="-2.54" visible="pin" length="short" rot="R180"/>
-</symbol>
 </symbols>
 <devicesets>
-<deviceset name="GBP_POWER_JACK">
+<deviceset name="GBP_POWER_JACK" prefix="J" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="GBP_POWER_JACK" x="0" y="0"/>
 </gates>
@@ -293,25 +241,6 @@
 <connects>
 <connect gate="G$1" pin="GND" pad="GND1 GND2"/>
 <connect gate="G$1" pin="VCC" pad="VCC"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="USB-C" prefix="X" uservalue="yes">
-<gates>
-<gate name="G$1" symbol="USB-C_POWER" x="0" y="0"/>
-</gates>
-<devices>
-<device name="POWER" package="USB-C_6P">
-<connects>
-<connect gate="G$1" pin="CC1" pad="A5"/>
-<connect gate="G$1" pin="CC2" pad="B5"/>
-<connect gate="G$1" pin="GND" pad="GND1 GND2"/>
-<connect gate="G$1" pin="SHLD" pad="SHLD1 SHLD2 SHLD3 SHLD4 SHLD5 SHLD6 SHLD7 SHLD8"/>
-<connect gate="G$1" pin="VBUS" pad="VBUS1 VBUS2"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -332,7 +261,6 @@
 </classes>
 <parts>
 <part name="U$1" library=",giltesa" deviceset="GBP_POWER_JACK" device=""/>
-<part name="X1" library=",giltesa" deviceset="USB-C" device="POWER"/>
 </parts>
 <sheets>
 <sheet>
@@ -340,7 +268,6 @@
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="10.16" y="17.78"/>
-<instance part="X1" gate="G$1" x="12.7" y="45.72"/>
 </instances>
 <busses>
 </busses>
