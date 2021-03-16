@@ -8,7 +8,7 @@ This kit will contain 3 boards:
 - USB-C board
 - LEDs board
 
-![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20SketchUP/Main%20Board/main1.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20SketchUP/Main%20Board/main2.jpg)
 
 
 
