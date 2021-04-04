@@ -9,7 +9,8 @@ This kit will contain 3 boards:
 - LEDs board
 
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20SketchUP/Main%20Board/main2.jpg)
-![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20SketchUP/Main%20Board/main3.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/2.%20Gerbers/v1.0/Images/GBP%20USB-C%20Charging%20Kit%20Render%20Top.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/2.%20Gerbers/v1.0/Images/GBP%20USB-C%20Charging%20Kit%20Render%20Bottom.jpg)
 
 
 
