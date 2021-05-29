@@ -11,8 +11,8 @@ This kit includes two boards. If you want to install it easy, it's enough with t
 
 This kit contains 3 boards:
 
-- Main board
 - USB-C board
+- Main board
 - LEDs board
 
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_211303.jpg)
