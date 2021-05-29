@@ -2,7 +2,7 @@
 
 This project is a Fork from my ![Game Boy Color USB-C Charging Kit](https://github.com/giltesa/Game-Boy-Color-USB-C-charging-kit)
 
-This kit will contain 3 boards:
+This kit contains 3 boards:
 
 - Main board
 - USB-C board
