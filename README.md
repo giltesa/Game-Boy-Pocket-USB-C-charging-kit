@@ -1,6 +1,6 @@
 # Game Boy Pocket USB-C Charging Kit
 
-( This project is a Fork from my ![Game Boy Color USB-C Charging Kit](https://github.com/giltesa/Game-Boy-Color-USB-C-charging-kit) )
+( This project is a fork from my ![Game Boy Color USB-C Charging Kit](https://github.com/giltesa/Game-Boy-Color-USB-C-charging-kit) )
 
 
 The **Game Boy Pocket USB-C Charging Kit** is a circuit that allows you to charge a **Nintendo Game Boy Pocket** by **USB-C** and use a **Li-ion** battery instead of AA batteries.
