@@ -32,7 +32,7 @@ Game Boy Pocket USB-C Charging Kit (Installation)
 
 ## You can get more information on my website:
 
-[**Game Boy Pocket USB-C charging kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit).
+[**Game Boy Pocket USB-C charging kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit)
 
 
 
