@@ -24,7 +24,9 @@ This kit contains 3 boards:
 
 ## Youtube:
 
-[![Game Boy Pocket USB-C Charging Kit (Installation)](https://img.youtube.com/vi/yOIhhSY7Itc/0.jpg)](https://www.youtube.com/watch?v=yOIhhSY7Itc)
+Game Boy Pocket USB-C Charging Kit (Installation)
+
+[![GBP](https://img.youtube.com/vi/yOIhhSY7Itc/0.jpg)](https://www.youtube.com/watch?v=yOIhhSY7Itc)
 
 
 
