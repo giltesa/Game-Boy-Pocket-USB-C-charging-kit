@@ -1,5 +1,6 @@
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/GBP_USB-C_Render_Top.jpg)
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/GBP_USB-C_Rende_Bottom.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210616_122525.jpg)
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_152630.jpg)
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_211303.jpg)
 ![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_211317.jpg)
