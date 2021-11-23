@@ -1,0 +1,23 @@
+Partlist exported from GBP USB-C Charging Kit.sch at 25/04/2021 20:20:44
+
+Assembly variant:
+
+Qty Value                  Device                 Parts
+1   1.2k                   R0402                  R1
+1   1k                     R0402                  R6
+1   1uF                    C0603                  C3
+2   5.1k                   R0402                  R3, R4
+1   10uF                   C0805                  C1
+1   100R                   R0402                  R5
+1   100nF                  C0603                  C2
+3   330R                   R0402                  R7, R8, R9
+1   8205A                  FS8205A                IC2
+1   DW01A                  DW01-P                 IC3
+1   GBP LED                1X032                  J4
+1   GBP LED-E              GBP_LED                J5
+1   GREEN-DONE             L0402                  L1-E
+1   JST-SH-1MM             JST-21MM               J3
+1   POWER                  L0402                  L3-E
+1   RED-CHRG               L0402                  L2-E
+1   TP4056                 DIO5158                IC1
+1   USB-C                  USB-CPOWER             J1
