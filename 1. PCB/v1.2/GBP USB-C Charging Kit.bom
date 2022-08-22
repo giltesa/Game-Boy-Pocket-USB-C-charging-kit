@@ -1,0 +1,26 @@
+Partlist exported from C:/Users/Alberto/Desktop/Electronica/1. Proyectos/14. GBP USB-C Charging Kit/1. PCB/v1.1 NoGit/GBP USB-C Charging Kit.sch at 05/05/2021 00:29:53
+
+Assembly variant:
+
+Part        Value                  Device                 Package
+C1          10uF                   C0805                  C0805
+C2          100nF                  C0603                  C0603
+C3          1uF                    C0603                  C0603
+IC1         TP4056                 DIO5158                SOIC-8
+IC2         8205A                  FS8205A                TSSOP8
+IC3         DW01A                  DW01-P                 SOT23-6L
+J1          USB-C                  USB-CPOWER             USB-C_6P
+J3          JST-SH-1MM             JST-21MM               JST-2-1MM-SMD_RIGHT
+J4          GBP LED                1X032                  1X03_SMD_2
+J5          GBP LED-E              GBP_LED                GBP_LED
+L1-E        GREEN-DONE             L0402                  L0402
+L2-E        RED-CHRG               L0402                  L0402
+L3-E        POWER                  L0402                  L0402
+R1          1.2k                   R0402                  R0402
+R3          5.1k                   R0402                  R0402
+R4          5.1k                   R0402                  R0402
+R5          100R                   R0402                  R0402
+R6          1k                     R0402                  R0402
+R7          330R                   R0402                  R0402
+R8          330R                   R0402                  R0402
+R9          330R                   R0402                  R0402
