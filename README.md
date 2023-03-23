@@ -15,10 +15,10 @@ This kit contains 3 boards:
 - Main board
 - LEDs board
 
-![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_211303.jpg)
-![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_211317.jpg)
-![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210424_211318.jpg)
-![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/5.%20Photos/IMG_20210515_191242.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20Photos/v1.1/IMG_20210424_211303.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20Photos/v1.1/IMG_20210424_211317.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20Photos/v1.1/IMG_20210424_211318.jpg)
+![GBP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/4.%20Photos/v1.1/IMG_20210515_191242.jpg)
 
 
 
@@ -30,9 +30,16 @@ Game Boy Pocket USB-C Charging Kit (Installation)
 
 
 
-## You can get more information on my website:
+## Would you like it?
 
-[**Game Boy Pocket USB-C charging kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit)
+https://shop.giltesa.com/product/game-boy-pocket-usb-c-charging-kit/
+
+
+
+## More
+
+- [giltesa.com](https://giltesa.com "giltesa.com")
+- [twitter.com](https://twitter.com/giltesa/status/1503669454852481024 "twitter.com")
 
 
 
