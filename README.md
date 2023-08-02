@@ -39,7 +39,7 @@ https://shop.giltesa.com/product/game-boy-pocket-usb-c-charging-kit/
 ## More
 
 - [giltesa.com](https://giltesa.com "giltesa.com")
-- [twitter.com](https://twitter.com/giltesa/status/1503669454852481024 "twitter.com")
+- [twitter.com](https://twitter.com/giltesa "twitter.com")
 
 
 
